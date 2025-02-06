@@ -13,11 +13,20 @@ Excel: Pivot table, Power Query Editor, hàm
 ETL: SSIS 
 
 📂 Dự án nổi bật:  
-## Design Deta Warehouse  
+## SQL Server - Design Deta Warehouse  
 ### CODE: [Design Data Warehouse](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Design%20a%20Data%20Warehouse%20for%20Sales%20Analytics.sql)  
 Mô tả: thiết kế một Data Warehouse phục vụ cho việc phân tích dữ liệu bán hàng chứa 7 đối tượng bao gồm nhân viên, cửa hàng, khách hàng, khu vực, sản phẩm, chương trình khuyến mãi và đơn hàng.  
 
-Technology: SQL Server 
+Kỹ năng: SQL Server 
 
-(Description: Design a Data Warehouse for sales data analysis containing 7 objects including employees, stores, customers, regions, products, promotions and orders.
+(Description: Design a Data Warehouse for sales data analysis containing 7 objects including employees, stores, customers, regions, products, promotions and orders.  
+
+## My SQL - Walmart Sales Data  
+### CODE: [SQL](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/WalmartSalesDate%20-%20SQL.sql)  
+Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của Walmart để hiểu các chi nhánh và sản phẩm có hiệu suất cao nhất, xu hướng bán hàng của các sản phẩm khác nhau, hành vi của khách hàng. Mục đích là nghiên cứu cách cải thiện và tối ưu hóa các chiến lược bán hàng. Bộ dữ liệu được lấy từ Cuộc thi Dự báo Bán hàng Walmart của [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
+
+Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...
+
+
+
 
