@@ -25,7 +25,17 @@ Kỹ năng: SQL Server
 ### CODE: [SQL](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/WalmartSalesDate%20-%20SQL.sql)  
 Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của Walmart để hiểu các chi nhánh và sản phẩm có hiệu suất cao nhất, xu hướng bán hàng của các sản phẩm khác nhau, hành vi của khách hàng. Mục đích là nghiên cứu cách cải thiện và tối ưu hóa các chiến lược bán hàng. Bộ dữ liệu được lấy từ Cuộc thi Dự báo Bán hàng Walmart của [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
 
-Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...
+Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...  
+
+## Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh  
+### [Dasboard](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+Mô tả: Dự án nhằm mục đích theo dõi hoạt động kinh doanh bán lẻ, người phụ trách có thể dễ dàng nắm bắt được tình hình kinh doang tổng quan của doanh nghiệp. Cũng như nắm bắt về xu hướng doanh thu, doanh thu theo sản phẩm, thị trường,...
+![Dashboard Sales Insight]([https://github.com/user-attachments/assets/93c2116c-ceb9-43bf-95ec-47a210a8d844](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+
+Kỹ năng: Calculated Fieled, Join, Visualazations
+
+
 
 
 
