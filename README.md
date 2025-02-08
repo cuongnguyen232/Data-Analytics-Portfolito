@@ -28,9 +28,9 @@ Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của W
 Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...  
 
 ## Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh  
-### [Dasboard](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+### [Dasboard]([https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 Mô tả: Dự án nhằm mục đích theo dõi hoạt động kinh doanh bán lẻ, người phụ trách có thể dễ dàng nắm bắt được tình hình kinh doang tổng quan của doanh nghiệp. Cũng như nắm bắt về xu hướng doanh thu, doanh thu theo sản phẩm, thị trường,...
-![Dashboard Sales Insight]([https://github.com/user-attachments/assets/93c2116c-ceb9-43bf-95ec-47a210a8d844](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+![Image](https://github.com/user-attachments/assets/b6654fe3-9210-42b1-a58b-151dc3d52c32)
 
 
 Kỹ năng: Calculated Fieled, Join, Visualazations
