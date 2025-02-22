@@ -37,7 +37,7 @@ Kỹ năng: Calculated Fieled, Join, Visualazations
 Chỉ số đo lường / Key metrics: Doanh thu, doanh số, số lượng bán, xu hướng doanh số, 
 
 ## Tableau - Xây dựng, Đánh giá hiệu suất kinh doanh của doanh nghiệp
-### [DASHBOARD](https://public.tableau.com/views/SalesFunnel_17390900761670/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [DASHBOARD](https://public.tableau.com/views/SalesFunnel_17390900761670/DashboardbySalesPerson?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Mô tả: Doanh nghiệp X đang kinh doanh sản phẩm Y gồm 6 nhân viên bán hàng. Doanh nghiệp đã xây dựng quy trình bán hàng để theo dõi và đo lường hiệu quả làm việc của nhân viên gồm 5 bước (Contact, Lead, Appointment, Quotation, Won). Dựa trên KPI hàng tháng của phòng cũng như của từng nhân viên bán hàng, hãy đánh giá, đo lường hiệu quả làm việc của doanh nghiệp X, và đưa ra các giải pháp phù hợp.
 
 ![Image](https://github.com/user-attachments/assets/e68f7a71-dff8-4b23-952b-67fb0fd1caf3)
