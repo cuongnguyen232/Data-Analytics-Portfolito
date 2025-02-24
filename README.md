@@ -39,6 +39,7 @@ Chỉ số đo lường / Key metrics: Doanh thu, doanh số, số lượng bán
 ## Tableau - Xây dựng, Đánh giá hiệu suất kinh doanh của doanh nghiệp
 ### [DASHBOARD](https://public.tableau.com/views/SalesFunnel_17390900761670/DashboardbySalesPerson?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Mô tả: Doanh nghiệp X đang kinh doanh sản phẩm Y gồm 6 nhân viên bán hàng. Doanh nghiệp đã xây dựng quy trình bán hàng để theo dõi và đo lường hiệu quả làm việc của nhân viên gồm 5 bước (Contact, Lead, Appointment, Quotation, Won). Dựa trên KPI hàng tháng của phòng cũng như của từng nhân viên bán hàng, hãy đánh giá, đo lường hiệu quả làm việc của doanh nghiệp X, và đưa ra các giải pháp phù hợp.
+Key Metrics: Revenue, Cost, Profit, Conversation Ratio
 
 ![Image](https://github.com/user-attachments/assets/e68f7a71-dff8-4b23-952b-67fb0fd1caf3)
 
@@ -46,9 +47,24 @@ Kỹ năng: Phễu bán hàng, Phân tích đánh giá hiệu quả, tìm ra cá
 Chỉ số đo lường / Key Metrics: tỷ lệ chuyển đổi (Conversation rate) , doanh số (sales volumn)  
 
 ## [PYTHON](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/RFM.ipynb) - Phân nhóm Khách hàng theo mô hình RFM 
-### Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
-### Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
-### Kỹ năng: Pandas, group by, seaborn, rank, cut,...
+Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
+Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
+Kỹ năng: Pandas, group by, seaborn, rank, cut,...  
+
+
+## [Tableau](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) Phân tích chương trình khuyến mãi và giá  
+### Mô tả dự án: 
+AtliQ Mart là một tập đoàn bán lẻ lớn với hơn 50 siêu thị ở khu vực phía Nam Ấn Độ. Cả 50 cửa hàng của họ đã chạy một chương trình khuyến mãi lớn trong suốt Diwali 2023 và Sankranti 2024 (thời gian lễ hội ở Ấn Độ) cho các sản phẩm mang thương hiệu AtliQ của họ. Bây giờ, giám đốc bán hàng muốn hiểu chương trình khuyến mãi nào hiệu quả và chương trình nào không hiệu quả để họ có thể đưa ra quyết định sáng suốt cho giai đoạn khuyến mãi tiếp theo.
+### Mục tiêu: 
+phân tích, đánh giá hiệu quả sau chương trình khuyến mãi và giá bán. Trả lời được các câu hỏi: 
+Chương trình nào hiệu quả tốt / kém?.   
+Sản phẩm nào hiệu quả tốt/ kém,? 
+cửa hàng nào hiệu quả tốt / kém?...  
+Doanh thu trước và sau chương trình?  
+### Kỹ năng: 
+Calculated Field, dashboard, conditional formating,...
+### Key metrics: 
+IR, ISU, ROI, 
 
 
 
