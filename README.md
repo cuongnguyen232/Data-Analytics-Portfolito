@@ -43,7 +43,12 @@ Mô tả: Doanh nghiệp X đang kinh doanh sản phẩm Y gồm 6 nhân viên b
 ![Image](https://github.com/user-attachments/assets/e68f7a71-dff8-4b23-952b-67fb0fd1caf3)
 
 Kỹ năng: Phễu bán hàng, Phân tích đánh giá hiệu quả, tìm ra các cơ hội có thể cải thiện trong kinh doanh.  
-Chỉ số đo lường / Key Metrics: tỷ lệ chuyển đổi (Conversation rate) , doanh số (sales volumn)
+Chỉ số đo lường / Key Metrics: tỷ lệ chuyển đổi (Conversation rate) , doanh số (sales volumn)  
+
+## [PYTHON]9https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/RFM.ipynb) - Phân nhóm Khách hàng theo mô hình RFM 
+### Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
+### Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
+### Kỹ năng: Pandas, group by, seaborn, rank, cut,...
 
 
 
