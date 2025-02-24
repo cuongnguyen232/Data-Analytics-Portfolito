@@ -53,6 +53,7 @@ Kỹ năng: Pandas, group by, seaborn, rank, cut,...
 
 
 ## [Tableau](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) Phân tích chương trình khuyến mãi và giá  
+### [Dataset](https://codebasics.io/challenge/codebasics-resume-project-challenge) #Challenge 9
 ### Mô tả dự án: 
 AtliQ Mart là một tập đoàn bán lẻ lớn với hơn 50 siêu thị ở khu vực phía Nam Ấn Độ. Cả 50 cửa hàng của họ đã chạy một chương trình khuyến mãi lớn trong suốt Diwali 2023 và Sankranti 2024 (thời gian lễ hội ở Ấn Độ) cho các sản phẩm mang thương hiệu AtliQ của họ. Bây giờ, giám đốc bán hàng muốn hiểu chương trình khuyến mãi nào hiệu quả và chương trình nào không hiệu quả để họ có thể đưa ra quyết định sáng suốt cho giai đoạn khuyến mãi tiếp theo.
 ### Mục tiêu: 
