@@ -12,6 +12,13 @@ Trực quan hóa: Power BI, Tableau
 Excel: Pivot table, Power Query Editor, hàm  
 ETL: SSIS 
 
+🏅 Chứng chỉ:   
+[Power BI Data Analyst](https://coursera.org/share/b5db0b9e45aefe5341969a29606aca34)  
+[Marketing Analysis with Meta](https://coursera.org/share/a24d7f66b32b8887d03528548b0572d9)   
+[Python for Data Analyst](https://coursera.org/share/236a2cda7a7c705803517dea853ce3f9)  
+[Pricing Strategy](https://coursera.org/share/f434b51a71e435034b582717158bf5a9)  
+[Channel Management and Retail](https://coursera.org/share/f8f1a3c58962b75083a337e3461b3d0b)  
+
 📂 Dự án nổi bật:  
 ## SQL Server - Design Deta Warehouse  
 ### CODE: [Design Data Warehouse](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Design%20a%20Data%20Warehouse%20for%20Sales%20Analytics.sql)  
