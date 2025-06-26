@@ -27,7 +27,7 @@ Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của W
 
 Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...  
 
-## Power BI -  Phân tích hiệu quả quảng cáo bán hàng online đa kênh (Facebook & Google)
+## [Power BI](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Ad%20Performance.pbix) -  Phân tích hiệu quả quảng cáo bán hàng online đa kênh (Facebook & Google)
 ### Mục tiêu: 
 Dự án nhằm mục đích phân tích hiệu quả chiến dịch quảng cáo marketing online, tỷ lệ chuyển đổi thành order, số lượng lead được tạo, số lượng order được đạt, doanh thu, chi phí,...  
 ### Kỹ năng: 
