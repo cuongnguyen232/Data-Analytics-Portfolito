@@ -27,13 +27,14 @@ Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của W
 
 Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...  
 
-## Power BI - Phân tích tỷ lệ chuyển đổi Lead to Order cho Doanh nghiệp bán hàng online  
+## Power BI -  Phân tích hiệu quả quảng cáo bán hàng online đa kênh (Facebook & Google)
 ### Mục tiêu: 
 Dự án nhằm mục đích phân tích hiệu quả chiến dịch quảng cáo marketing online, tỷ lệ chuyển đổi thành order, số lượng lead được tạo, số lượng order được đạt, doanh thu, chi phí,...  
 ### Kỹ năng: 
 Advanced DAX - AllSelected, Calculate, MIN, Datediff, Sum,...  
 
-![Image](https://github.com/user-attachments/assets/907582a8-39ca-4519-8046-d4347340632b)
+![Image](https://github.com/user-attachments/assets/569d6f58-eaf9-4b6b-ba59-8dcb0bb7a5ac)
+![Image](https://github.com/user-attachments/assets/1de91c4f-babd-477f-bec5-ae4d62a53988)
 
 ## Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh  
 ### [Dashboard](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
