@@ -19,8 +19,18 @@ ETL: SSIS
 [Pricing Strategy](https://coursera.org/share/f434b51a71e435034b582717158bf5a9)  
 [Channel Management and Retail](https://coursera.org/share/f8f1a3c58962b75083a337e3461b3d0b)  
 
-📂 Dự án nổi bật:  
-## SQL Server - Design Deta Warehouse  
+## 📂 Dự án nổi bật:    
+## Mục lục:   
+#### SQL Server-Design Data Warehouse
+#### MY SQL - Walmart Sales Data
+#### MY SQL - Maven Fuzzy Factory - phân tích hiệu quả hoạt động trang Thương Mại điện tử
+#### Power BI - Phân tích hiệu quả quảng cáo
+#### Tableau - Xây dựng Dashboard Real-time theo dõi hoạt động kinh doanh bán lẻ
+#### Tableau - Phân tích hiệu quả hoạt động kinh doanh của doanh nghiệp bán lẻ
+#### PYTHON - Phân nhóm khách hàng theo RFM
+
+
+## SQL Server Design Data Warehouse  
 ### CODE: [Design Data Warehouse](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Design%20a%20Data%20Warehouse%20for%20Sales%20Analytics.sql)  
 Mô tả: thiết kế một Data Warehouse phục vụ cho việc phân tích dữ liệu bán hàng chứa 7 đối tượng bao gồm nhân viên, cửa hàng, khách hàng, khu vực, sản phẩm, chương trình khuyến mãi và đơn hàng.  
 
@@ -33,6 +43,12 @@ Kỹ năng: SQL Server
 Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của Walmart để hiểu các chi nhánh và sản phẩm có hiệu suất cao nhất, xu hướng bán hàng của các sản phẩm khác nhau, hành vi của khách hàng. Mục đích là nghiên cứu cách cải thiện và tối ưu hóa các chiến lược bán hàng. Bộ dữ liệu được lấy từ Cuộc thi Dự báo Bán hàng Walmart của [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
 
 Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...  
+
+## SQL - Thương mại điện tử - Maven Fuzzy Factory
+## [SQL](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/639177ad38abab698df59c1ca5b9343ea58cede0/Website%20Analytics.sql)
+Mục tiêu: Áp dụng Query phân tích dữ liệu về ngành Thương mại điện tử  
+Kỹ năng: Select, Sub Query, Windown Functions, CTEs,...   
+
 
 ## [Power BI](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Ad%20Performance.pbix) -  Phân tích hiệu quả quảng cáo bán hàng online đa kênh (Facebook & Google)
 ### Mục tiêu: 
@@ -65,7 +81,7 @@ Chỉ số đo lường / Key Metrics: tỷ lệ chuyển đổi (Conversation r
 ## [PYTHON](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/RFM.ipynb) - Phân nhóm Khách hàng theo mô hình RFM 
 Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
 Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
-Kỹ năng: Pandas, group by, seaborn, rank, cut,...  
+Kỹ năng: Pandas, group by, seaborn, rank, cut,...    
 
 
 ## [Tableau](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) Phân tích chương trình khuyến mãi và giá  
