@@ -80,12 +80,12 @@ Dự án sử dụng bộ dữ liệu từ Maven Fuzzy Factory để thực hàn
 
 ##### 🛠️ Kỹ năng sử dụng:  
 **SQL nâng cao:** Subquery, Common Table Expressions (CTEs)  
-**Window Functions:** RANK(), ROW_NUMBER(), LEAD(), LAG(), SUM() OVER,...
-Phân tích các vấn đề thực tế trong e-commerce:
-Hiệu quả kênh quảng cáo và chuyển đổi theo nguồn traffic
-Tỷ lệ chuyển đổi theo từng giai đoạn (conversion funnel)
-Theo dõi hành vi người dùng theo session
-Phân tích cohort khách hàng theo thời gian
+**Window Functions:** RANK(), ROW_NUMBER(), LEAD(), LAG(), SUM() OVER,...  
+Phân tích các vấn đề thực tế trong e-commerce:  
+Hiệu quả kênh quảng cáo và chuyển đổi theo nguồn traffic  
+Tỷ lệ chuyển đổi theo từng giai đoạn (conversion funnel)  
+Theo dõi hành vi người dùng theo session  
+Phân tích cohort khách hàng theo thời gian  
 
 ##### 📊 Kết quả:  
 Viết bộ truy vấn SQL linh hoạt để trả lời các câu hỏi kinh doanh thực tế
