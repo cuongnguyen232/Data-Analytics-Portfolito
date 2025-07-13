@@ -21,7 +21,7 @@ ETL: SSIS
 
 ## 📂 Dự án nổi bật:    
 ## Mục lục:   
-#### [1: SQL Server - Design Data Warehouse](#sql-server---design-data-warehouse-1)
+#### [1: SQL Server - Design Data Warehouse](#sql-server-design-data-warehouse)
 #### MY SQL - Walmart Sales Data
 #### MY SQL - Maven Fuzzy Factory - phân tích hiệu quả hoạt động trang Thương Mại điện tử
 #### Power BI - Phân tích hiệu quả quảng cáo
