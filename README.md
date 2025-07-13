@@ -23,7 +23,7 @@ ETL: SSIS
 ## Mục lục:
 ## I: SQL
 #### [1.1: SQL Server - Design Data Warehouse](#sql-server-design-data-warehouse)
-#### [1.2: MY SQL - Walmart Sales Data](#my-sql---walmart-sales-data-1)
+#### [1.2: MY SQL - Walmart Sales Data](#my-sql---walmart-sales-data)
 #### [1.3 AVANCED - Maven Fuzzy Factory Phân tích dữ liệu cho thương mại điện t](#sql---th%C6%B0%C6%A1ng-m%E1%BA%A1i-%C4%91i%E1%BB%87n-t%E1%BB%AD---maven-fuzzy-factory)  
 
 ## II: Power BI
