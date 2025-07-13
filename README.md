@@ -20,14 +20,23 @@ ETL: SSIS
 [Channel Management and Retail](https://coursera.org/share/f8f1a3c58962b75083a337e3461b3d0b)  
 
 ## 📂 Dự án nổi bật:    
-## Mục lục:   
-#### [1: SQL Server - Design Data Warehouse](#sql-server-design-data-warehouse)
-#### MY SQL - Walmart Sales Data
-#### MY SQL - Maven Fuzzy Factory - phân tích hiệu quả hoạt động trang Thương Mại điện tử
-#### Power BI - Phân tích hiệu quả quảng cáo
-#### Tableau - Xây dựng Dashboard Real-time theo dõi hoạt động kinh doanh bán lẻ
-#### Tableau - Phân tích hiệu quả hoạt động kinh doanh của doanh nghiệp bán lẻ
-#### PYTHON - Phân nhóm khách hàng theo RFM
+## Mục lục:
+## I: SQL
+#### [1.1: SQL Server - Design Data Warehouse](#sql-server-design-data-warehouse)
+#### [1.2: MY SQL - Walmart Sales Data](#my-sql---walmart-sales-data-1)
+#### [1.3 AVANCED - Maven Fuzzy Factory Phân tích dữ liệu cho thương mại điện t](#sql---th%C6%B0%C6%A1ng-m%E1%BA%A1i-%C4%91i%E1%BB%87n-t%E1%BB%AD---maven-fuzzy-factory)  
+
+## II: Power BI
+#### [Power BI - Phân tích hiệu quả quảng cáo](#power-bi----ph%C3%A2n-t%C3%ADch-hi%E1%BB%87u-qu%E1%BA%A3-qu%E1%BA%A3ng-c%C3%A1o-b%C3%A1n-h%C3%A0ng-online-%C4%91a-k%C3%AAnh-facebook--google)
+
+
+## III: Tableau
+#### [3.1 Tableau - Xây dựng Dashboard Real-time theo dõi hoạt động kinh doanh bán lẻ](#tableau---x%C3%A2y-d%E1%BB%B1ng-dashboard-theo-d%C3%B5i-ho%E1%BA%A1t-%C4%91%E1%BB%99ng-kinh-doanh)
+#### [3.2 Tableau - Phân tích hiệu quả hoạt động kinh doanh của doanh nghiệp](#tableau---x%C3%A2y-d%E1%BB%B1ng-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-su%E1%BA%A5t-kinh-doanh-c%E1%BB%A7a-doanh-nghi%E1%BB%87p)  
+#### [3.3 Phân tích hiệu quả chương trình Promotion and Pricing](#tableau-ph%C3%A2n-t%C3%ADch-ch%C6%B0%C6%A1ng-tr%C3%ACnh-khuy%E1%BA%BFn-m%C3%A3i-v%C3%A0-gi%C3%A1)
+
+## IV: Python
+#### [PYTHON - Phân nhóm khách hàng theo RFM](#python---ph%C3%A2n-nh%C3%B3m-kh%C3%A1ch-h%C3%A0ng-theo-m%C3%B4-h%C3%ACnh-rfm)
 
 
 ## SQL Server Design Data Warehouse  
@@ -78,11 +87,6 @@ Key Metrics: Revenue, Cost, Profit, Conversation Ratio
 Kỹ năng: Phễu bán hàng, Phân tích đánh giá hiệu quả, tìm ra các cơ hội có thể cải thiện trong kinh doanh.  
 Chỉ số đo lường / Key Metrics: tỷ lệ chuyển đổi (Conversation rate) , doanh số (sales volumn)  
 
-## [PYTHON](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/RFM.ipynb) - Phân nhóm Khách hàng theo mô hình RFM 
-Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
-Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
-Kỹ năng: Pandas, group by, seaborn, rank, cut,...    
-
 
 ## [Tableau](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) Phân tích chương trình khuyến mãi và giá  
 ### [Dataset](https://codebasics.io/challenge/codebasics-resume-project-challenge) #Challenge 9
@@ -98,6 +102,12 @@ Doanh thu trước và sau chương trình?
 Calculated Field, dashboard, conditional formating,...
 ### Key metrics: 
 IR, ISU, ROI, 
+
+
+## [PYTHON](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/RFM.ipynb) - Phân nhóm Khách hàng theo mô hình RFM 
+Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
+Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
+Kỹ năng: Pandas, group by, seaborn, rank, cut,...    
 
 
 
