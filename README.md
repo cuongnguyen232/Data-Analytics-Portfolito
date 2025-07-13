@@ -41,71 +41,180 @@ ETL: SSIS
 🚀🚀🚀🚀🚀🚀
 -------------------------------------   
 ## Chi tiết:   
-### SQL Server Design Data Warehouse  [Code](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Design%20a%20Data%20Warehouse%20for%20Sales%20Analytics.sql)  
-
-Mô tả: thiết kế một Data Warehouse phục vụ cho việc phân tích dữ liệu bán hàng chứa 7 đối tượng bao gồm nhân viên, cửa hàng, khách hàng, khu vực, sản phẩm, chương trình khuyến mãi và đơn hàng.  
-
-Kỹ năng: SQL Server 
-
-(Description: Design a Data Warehouse for sales data analysis containing 7 objects including employees, stores, customers, regions, products, promotions and orders.  
+### SQL Server Design Data Warehouse  [Code](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Design%20a%20Data%20Warehouse%20for%20Sales%20Analytics.sql)     
+  ##### 📌 Mô tả:
+Thiết kế một kho dữ liệu (Data Warehouse) phục vụ phân tích dữ liệu bán hàng, bao gồm 7 thực thể chính: Nhân viên, Cửa hàng, Khách hàng, Khu vực, Sản phẩm, Chương trình khuyến mãi và Đơn hàng.    
+  ##### 🛠️ Kỹ năng sử dụng:    
+SQL Server: thiết kế lược đồ cơ sở dữ liệu, tạo bảng, ràng buộc khóa chính – khóa ngoại, và viết truy vấn SQL.    
+Mô hình dữ liệu phân tích: xây dựng theo mô hình Star Schema, tách biệt rõ bảng fact và dimension.   
+Tối ưu hóa dữ liệu: chuẩn hóa dữ liệu, thiết kế mối quan hệ logic giữa các bảng, hỗ trợ truy vấn nhanh và phân tích hiệu quả.    
+  ##### 📊 Kết quả:     
+Hệ thống kho dữ liệu sẵn sàng cho việc phân tích hiệu suất bán hàng, theo dõi doanh thu theo khu vực, cửa hàng, nhân viên và đo lường tác động của các chương trình khuyến mãi.
 
 ### My SQL - Walmart Sales Data  [CODE](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/WalmartSalesDate%20-%20SQL.sql)  
-Mô tả: Dự án nhằm mục đích khám phá dữ liệu Bán hàng của Walmart để hiểu các chi nhánh và sản phẩm có hiệu suất cao nhất, xu hướng bán hàng của các sản phẩm khác nhau, hành vi của khách hàng. Mục đích là nghiên cứu cách cải thiện và tối ưu hóa các chiến lược bán hàng. Bộ dữ liệu được lấy từ Cuộc thi Dự báo Bán hàng Walmart của [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
 
-Kỹ năng: SELECT, GROUP BY, LIMIT, HAVING, COUNT() , SUM(), AVG(),...  
+##### 📌 Mô tả:   
+Dự án nhằm khám phá dữ liệu bán hàng của Walmart để phân tích các chi nhánh, sản phẩm có hiệu suất cao, xu hướng mua sắm, và hành vi khách hàng. Mục tiêu là tìm ra cách cải thiện và tối ưu hóa chiến lược bán hàng.   
+Dữ liệu được lấy từ cuộc thi Walmart Sales Forecasting trên Kaggle.   
 
-### SQL - Thương mại điện tử - Maven Fuzzy Factory [Code](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/639177ad38abab698df59c1ca5b9343ea58cede0/Website%20Analytics.sql)
-Mục tiêu: Áp dụng Query phân tích dữ liệu về ngành Thương mại điện tử  
-Kỹ năng: Select, Sub Query, Windown Functions, CTEs,...   
+##### 🛠️ Kỹ năng sử dụng:    
+Thực hành truy vấn SQL ở mức cơ bản và trung cấp:
+SELECT, WHERE, GROUP BY, ORDER BY, LIMIT, HAVING  
+và các hàm tổng hợp như: COUNT(), SUM(), AVG(), ROUND(), MAX(), MIN().  
+Phân tích dữ liệu theo nhiều chiều: theo ngày, theo cửa hàng, theo loại sản phẩm, theo hình thức thanh toán.   
+Đưa ra insight ban đầu để hỗ trợ định hướng kinh doanh. 
+
+##### 📊 Kết quả:   
+Tạo tập hợp truy vấn SQL giúp trả lời các câu hỏi phổ biến trong bán lẻ như:
+Cửa hàng nào có doanh thu cao nhất?
+Nhóm sản phẩm nào được ưa chuộng nhất?
+Thời điểm nào doanh số cao/thấp?
+Khách hàng chi tiêu trung bình bao nhiêu?    
+[DATASET](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
+
+
+### SQL - Thương mại điện tử - Maven Fuzzy Factory [Code](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/639177ad38abab698df59c1ca5b9343ea58cede0/Website%20Analytics.sql)  
+
+##### 📌 Mô tả:
+Dự án sử dụng bộ dữ liệu từ Maven Fuzzy Factory để thực hành và áp dụng các truy vấn SQL nâng cao trong lĩnh vực Thương mại điện tử. Mục tiêu là phân tích hành vi khách hàng, hiệu suất sản phẩm, kênh marketing, chuyển đổi đơn hàng và tăng trưởng doanh thu.  
+
+##### 🛠️ Kỹ năng sử dụng:  
+**SQL nâng cao:** Subquery, Common Table Expressions (CTEs)  
+**Window Functions:** RANK(), ROW_NUMBER(), LEAD(), LAG(), SUM() OVER,...
+Phân tích các vấn đề thực tế trong e-commerce:
+Hiệu quả kênh quảng cáo và chuyển đổi theo nguồn traffic
+Tỷ lệ chuyển đổi theo từng giai đoạn (conversion funnel)
+Theo dõi hành vi người dùng theo session
+Phân tích cohort khách hàng theo thời gian
+
+##### 📊 Kết quả:  
+Viết bộ truy vấn SQL linh hoạt để trả lời các câu hỏi kinh doanh thực tế
+Tăng khả năng sử dụng các kỹ thuật phân tích nâng cao trong SQL để hỗ trợ quyết định
 
 
 ### [Power BI - Phân tích hiệu quả quảng cáo đa kênh](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Ad%20Performance.pbix)
-#### Mục tiêu: 
-Dự án nhằm mục đích phân tích hiệu quả chiến dịch quảng cáo marketing online, tỷ lệ chuyển đổi thành order, số lượng lead được tạo, số lượng order được đạt, doanh thu, chi phí,...  
-#### Kỹ năng: 
-Advanced DAX - AllSelected, Calculate, MIN, Datediff, Sum,...  
+##### 📌 Mục tiêu:
+Phân tích chi tiết hiệu quả các chiến dịch quảng cáo online với các chỉ số quan trọng như:
+Tỷ lệ chuyển đổi, số lượng lead, số lượng order, doanh thu, chi phí, ROAS, v.v.
+Dự án giúp đánh giá hiệu suất từ cấp độ tổng thể, đến từng chiến dịch, nhóm quảng cáo, và từng ngày.
+
+##### 🛠️ Kỹ năng sử dụng:
+**Advanced DAX:**  
+**Hàm nâng cao:** ALLSELECTED, CALCULATE, MIN, SUM, DATEDIFF,...
+Tính toán động theo context lọc để đo lường chính xác hiệu quả chiến dịch
+**Power BI chuyên sâu:**  
+Thiết kế dashboard trực quan theo cấp độ funnel (ads > leads > orders)
+Phân tích hiệu quả chi tiết theo thời gian, nhóm quảng cáo, nội dung quảng cáo
+Tối ưu mô hình dữ liệu và hiệu suất đo lường
+
+##### 📈 Kết quả:  
+Dashboard giúp theo dõi và đánh giá hiệu suất chạy ads theo thời gian thực
+Hỗ trợ đề xuất chiến dịch hiệu quả và phát hiện điểm nghẽn trong quá trình tạo đơn hàng
 
 ![Image](https://github.com/user-attachments/assets/569d6f58-eaf9-4b6b-ba59-8dcb0bb7a5ac)
 ![Image](https://github.com/user-attachments/assets/1de91c4f-babd-477f-bec5-ae4d62a53988)
 
-### [Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-Mô tả: Dự án nhằm mục đích theo dõi hoạt động kinh doanh bán lẻ, người phụ trách có thể dễ dàng nắm bắt được tình hình kinh doang tổng quan của doanh nghiệp. Cũng như nắm bắt về xu hướng doanh thu, doanh thu theo sản phẩm, thị trường,...
+### [Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+##### 📌 Mô tả:  
+Dự án nhằm theo dõi hoạt động kinh doanh hàng ngày của doanh nghiệp bán lẻ. Giúp người quản lý nhanh chóng nắm bắt tình hình kinh doanh tổng quan, theo dõi doanh thu theo thời gian, sản phẩm, thị trường, và phát hiện xu hướng tăng/giảm để hỗ trợ ra quyết định kịp thời.
+
+##### 🛠️ Kỹ năng sử dụng:  
+**Tableau:**
+Thiết kế dashboard tương tác theo ngày
+Tạo biểu đồ phân tích doanh thu theo sản phẩm, ngành hàng, khu vực, thị trường
+Thiết lập filter, drill-down, highlight theo người dùng
+**Phân tích dữ liệu kinh doanh:**
+Theo dõi doanh thu thực tế so với mục tiêu
+Phân tích xu hướng tăng trưởng/ngành hàng nổi bật
+Hỗ trợ ra quyết định nhanh theo dữ liệu realtime
+
+##### 📊 Kết quả:
+Dashboard cho phép theo dõi hoạt động kinh doanh hằng ngày một cách trực quan, từ tổng quan đến chi tiết, giúp người dùng chủ động phát hiện bất thường và tối ưu hoạt động bán hàng.
 ![Image](https://github.com/user-attachments/assets/b6654fe3-9210-42b1-a58b-151dc3d52c32)
 
-Kỹ năng: Calculated Fieled, Join, Visualazations  
-Chỉ số đo lường / Key metrics: Doanh thu, doanh số, số lượng bán, xu hướng doanh số, 
 
 ## Tableau - Xây dựng, Đánh giá hiệu suất kinh doanh của doanh nghiệp [DASHBOARD](https://public.tableau.com/views/SalesFunnel_17390900761670/DashboardbySalesPerson?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Mô tả: Doanh nghiệp X đang kinh doanh sản phẩm Y gồm 6 nhân viên bán hàng. Doanh nghiệp đã xây dựng quy trình bán hàng để theo dõi và đo lường hiệu quả làm việc của nhân viên gồm 5 bước (Contact, Lead, Appointment, Quotation, Won). Dựa trên KPI hàng tháng của phòng cũng như của từng nhân viên bán hàng, hãy đánh giá, đo lường hiệu quả làm việc của doanh nghiệp X, và đưa ra các giải pháp phù hợp.
-Key Metrics: Revenue, Cost, Profit, Conversation Ratio
+##### 📌 Mô tả:
+Doanh nghiệp X kinh doanh sản phẩm Y với đội ngũ 6 nhân viên bán hàng. Quy trình bán hàng được xây dựng gồm 5 bước: Contact → Lead → Appointment → Quotation → Won.
+Mục tiêu dự án là theo dõi, đánh giá hiệu quả làm việc của từng nhân viên, từng bước trong quy trình, và toàn bộ phòng kinh doanh dựa trên KPI tháng.
+
+##### 🛠️ Kỹ năng sử dụng:
+Tableau:
+Thiết kế dashboard phân cấp từ tổng quan đến chi tiết theo từng nhân viên, từng giai đoạn
+Tạo biểu đồ funnel, heatmap, và bảng KPI động
+**Phân tích hiệu suất bán hàng:**
+Tính toán các chỉ số chính: Revenue, Cost, Profit, Conversion Ratio
+Đánh giá tỷ lệ chuyển đổi qua từng bước bán hàng
+So sánh hiệu suất cá nhân và phòng ban theo KPI
+Đề xuất giải pháp cải tiến hiệu quả kinh doanh dựa trên dữ liệu thực tế
+
+##### 📊 Kết quả:
+Dashboard giúp ban quản lý theo dõi hiệu quả bán hàng theo thời gian, nhận diện điểm nghẽn trong quy trình và đưa ra hành động phù hợp để tối ưu hiệu suất.
 
 ![Image](https://github.com/user-attachments/assets/e68f7a71-dff8-4b23-952b-67fb0fd1caf3)
 
-Kỹ năng: Phễu bán hàng, Phân tích đánh giá hiệu quả, tìm ra các cơ hội có thể cải thiện trong kinh doanh.  
-Chỉ số đo lường / Key Metrics: tỷ lệ chuyển đổi (Conversation rate) , doanh số (sales volumn)  
+
 
 
 ## [Tableau - Phân tích chương trình khuyến mãi và chính sách giá](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### [Dataset](https://codebasics.io/challenge/codebasics-resume-project-challenge) #Challenge 9
-### Mô tả dự án: 
-AtliQ Mart là một tập đoàn bán lẻ lớn với hơn 50 siêu thị ở khu vực phía Nam Ấn Độ. Cả 50 cửa hàng của họ đã chạy một chương trình khuyến mãi lớn trong suốt Diwali 2023 và Sankranti 2024 (thời gian lễ hội ở Ấn Độ) cho các sản phẩm mang thương hiệu AtliQ của họ. Bây giờ, giám đốc bán hàng muốn hiểu chương trình khuyến mãi nào hiệu quả và chương trình nào không hiệu quả để họ có thể đưa ra quyết định sáng suốt cho giai đoạn khuyến mãi tiếp theo.
-### Mục tiêu: 
-phân tích, đánh giá hiệu quả sau chương trình khuyến mãi và giá bán. Trả lời được các câu hỏi: 
-Chương trình nào hiệu quả tốt / kém?.   
-Sản phẩm nào hiệu quả tốt/ kém,? 
-cửa hàng nào hiệu quả tốt / kém?...  
-Doanh thu trước và sau chương trình?  
-### Kỹ năng: 
-Calculated Field, dashboard, conditional formating,...
-### Key metrics: 
-IR, ISU, ROI, 
+##### 📌 Mô tả:
+AtliQ Mart là tập đoàn bán lẻ với hơn 50 siêu thị tại miền Nam Ấn Độ. Trong dịp Diwali 2023 và Sankranti 2024, công ty triển khai nhiều chương trình khuyến mãi cho các sản phẩm mang thương hiệu riêng. Sau chương trình, Giám đốc Bán hàng cần đánh giá hiệu quả từng chiến dịch, từng sản phẩm, từng cửa hàng để chuẩn bị cho giai đoạn khuyến mãi tiếp theo.
+##### 🎯 Mục tiêu:
+Phân tích hiệu quả sau chương trình khuyến mãi và giá bán.
+Trả lời các câu hỏi:
+Chương trình nào hiệu quả cao / thấp?
+Sản phẩm / cửa hàng nào hoạt động tốt / kém?
+So sánh doanh thu trước và sau khuyến mãi.
+Đánh giá hiệu suất theo các chỉ số tài chính và vận hành.
+
+##### 🛠️ Kỹ năng sử dụng:
+Data Visualization:
+Thiết kế dashboard tương tác với conditional formatting để làm nổi bật kết quả tốt/xấu
+Drill-down theo sản phẩm, cửa hàng, thời gian
+Calculated Fields & DAX / Tableau Calculations:
+Tạo các chỉ số tính toán như ROI, chênh lệch doanh thu, hiệu quả theo vùng/nhóm
+Phân tích hiệu quả khuyến mãi:
+So sánh hiệu suất trước – trong – sau khuyến mãi
+Nhận diện các yếu tố ảnh hưởng đến tăng/giảm doanh thu
+
+##### 📊 Key Metrics:
+IR (Incremental Revenue)
+ISU (Incremental Sales Units)
+ROI (Return on Investment)
+
+##### ✅ Kết quả:
+Dashboard đánh giá hiệu quả từng chương trình và từng điểm bán
+Hỗ trợ ra quyết định tối ưu khuyến mãi và điều chỉnh chính sách giá cho giai đoạn tiếp theo
+
+
 
 
 ## [PYTHON](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/RFM.ipynb) - Phân nhóm Khách hàng theo mô hình RFM 
-Mục tiêu: Phân nhóm khách hàng của doanh nghiệp theo 3 tiêu chí: Recency, Frequency, Monetary  
-Insight: Đánh giá năng lực của doanh nghiệp, áp dụng chiến lược phù hợp cho từng nhóm khách hàng phù hợp
-Kỹ năng: Pandas, group by, seaborn, rank, cut,...    
+##### 📌 Mục tiêu:
+Phân nhóm khách hàng theo 3 tiêu chí:  
+Recency – lần mua gần nhất  
+Frequency – tần suất mua hàng  
+Monetary – tổng giá trị đơn hàng  
+Mục tiêu nhằm đánh giá giá trị và mức độ gắn kết của khách hàng, từ đó áp dụng chiến lược marketing phù hợp với từng nhóm.
+
+##### 🧠 Insight:
+Hiểu rõ năng lực giữ chân và khai thác khách hàng của doanh nghiệp
+Phân biệt khách hàng trung thành, mới, có rủi ro rời bỏ,...
+Hỗ trợ cá nhân hóa chăm sóc & tối ưu chi phí marketing
+
+##### 🛠️ Kỹ năng sử dụng:
+Python (Pandas): xử lý dữ liệu, tính toán RFM scores
+groupby(), rank(), cut(): tạo nhóm RFM theo tiêu chí định sẵn
+Seaborn / Matplotlib: trực quan hóa phân nhóm khách hàng
+Gắn nhãn từng nhóm và phân tích hành vi theo phân khúc
+
+##### 📊 Kết quả:
+Phân loại khách hàng thành nhiều nhóm: VIP, tiềm năng, cần chăm sóc, có rủi ro,...
+Đưa ra gợi ý hành động cụ thể cho từng nhóm (ưu đãi, tái kích hoạt, giữ chân,...)
+
+
 
 
 
