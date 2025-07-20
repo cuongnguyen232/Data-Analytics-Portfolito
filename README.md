@@ -115,7 +115,9 @@ Hỗ trợ đề xuất chiến dịch hiệu quả và phát hiện điểm ngh
 ![Image](https://github.com/user-attachments/assets/1de91c4f-babd-477f-bec5-ae4d62a53988)    
 
 
-### [Power BI - Thiết kế và duy trì Dashboard phân tích eCommerce với Power BI – Dữ liệu theLook trên BigQuer (2 triệu dòng)]  
+### [Power BI - Thiết kế và duy trì Dashboard phân tích eCommerce với Power BI – Dữ liệu theLook trên BigQuer (2 triệu dòng)](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/theLook%20eCommerce_Direct.pbix)  
+##### [Metadata and Key Metrics](https://1drv.ms/x/c/6cd8ee863c38f461/EQn_Jm-VN0tOtqoJdMQh_UkBpUOF2T_RptgWBmxjRygpXg?e=ejqWfx)  
+
 #### 🧩 Mô tả ngắn:
 Xây dựng và duy trì dashboard phân tích bán hàng trực tuyến dựa trên dữ liệu mẫu theLook_eCommerce từ BigQuery. Dự án bao gồm thiết kế data model, truy xuất dữ liệu qua SQL nâng cao, định nghĩa bộ chỉ số hiệu suất (key metrics), tổ chức bảng câu hỏi kinh doanh, và trực quan hóa bằng Power BI nhằm hỗ trợ theo dõi hiệu quả kinh doanh và ra quyết định.  
 ##### 🛠️ Kỹ năng & Công cụ sử dụng:  
