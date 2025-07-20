@@ -112,17 +112,49 @@ Dashboard giúp theo dõi và đánh giá hiệu suất chạy ads theo thời g
 Hỗ trợ đề xuất chiến dịch hiệu quả và phát hiện điểm nghẽn trong quá trình tạo đơn hàng
 
 ![Image](https://github.com/user-attachments/assets/569d6f58-eaf9-4b6b-ba59-8dcb0bb7a5ac)
-![Image](https://github.com/user-attachments/assets/1de91c4f-babd-477f-bec5-ae4d62a53988)
+![Image](https://github.com/user-attachments/assets/1de91c4f-babd-477f-bec5-ae4d62a53988)    
+
+
+### [Power BI - Thiết kế và duy trì Dashboard phân tích eCommerce với Power BI – Dữ liệu theLook trên BigQuer (2 triệu dòng)]  
+#### 🧩 Mô tả ngắn:
+Xây dựng và duy trì dashboard phân tích bán hàng trực tuyến dựa trên dữ liệu mẫu theLook_eCommerce từ BigQuery. Dự án bao gồm thiết kế data model, truy xuất dữ liệu qua SQL nâng cao, định nghĩa bộ chỉ số hiệu suất (key metrics), tổ chức bảng câu hỏi kinh doanh, và trực quan hóa bằng Power BI nhằm hỗ trợ theo dõi hiệu quả kinh doanh và ra quyết định.  
+##### 🛠️ Kỹ năng & Công cụ sử dụng:  
+Power BI: Data modeling, DAX, interactive visuals
+Google BigQuery: SQL nâng cao, joins, aggregation, CTEs
+Data modeling: Star schema, dimension & fact tables
+Business understanding: KPI eCommerce, phân tích bán hàng, phân tích sessions, khách hàng, sản phẩm     
+
+##### 🧱 Các bước thực hiện:
+**Kết nối dữ liệu từ BigQuery** (dataset theLook_eCommerce)   
+**Xây dựng data model chuẩn hóa:**   
+Phân loại bảng theo vai trò: fact (order_items, orders), dimension (products, users, distribution_centers)
+Thiết lập mối quan hệ một-nhiều giữa các bảng      
+
+**Trích xuất dữ liệu bằng SQL nâng cao:**
+Sử dụng JOIN, CASE, CTE, DATE_DIFF, PARTITION BY để xử lý logic kinh doanh   
+**Xây dựng bộ KPI chính:**    
+Tổng doanh thu (Revenue), số lượng đơn hàng (number of orders), số lượng khách hàng (number of Customer), AOV, tốc độ tăng trưởng đơn hàng, Sales Funnel, Sessions,....   
+**Thiết kế dashboard:**  
+**Các page theo chủ đề:** Sales & orders và Session Performance   
+Dùng slicer theo thời gian
+Tối ưu hiệu suất (truy vấn) và khả năng tái sử dụng:
+Dùng measure tái sử dụng, DAX tối ưu, dữ liệu preload từ query SQL   
+
+##### ✅ Kết quả đạt được:
+Dashboard hoàn chỉnh giúp người dùng theo dõi các chỉ số chính của hoạt động eCommerce.
+Giao diện trực quan, dễ sử dụng, hỗ trợ filter linh hoạt.
+Có thể áp dụng vào các case thực tế trong ngành thương mại điện tử.
+
 
 ### [Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ##### 📌 Mô tả:  
 Dự án nhằm theo dõi hoạt động kinh doanh hàng ngày của doanh nghiệp bán lẻ. Giúp người quản lý nhanh chóng nắm bắt tình hình kinh doanh tổng quan, theo dõi doanh thu theo thời gian, sản phẩm, thị trường, và phát hiện xu hướng tăng/giảm để hỗ trợ ra quyết định kịp thời.
 
 ##### 🛠️ Kỹ năng sử dụng:  
-**Tableau:**
+**Tableau:**  
 Thiết kế dashboard tương tác theo ngày
 Tạo biểu đồ phân tích doanh thu theo sản phẩm, ngành hàng, khu vực, thị trường
-Thiết lập filter, drill-down, highlight theo người dùng
+Thiết lập filter, drill-down, highlight theo người dùng   
 **Phân tích dữ liệu kinh doanh:**
 Theo dõi doanh thu thực tế so với mục tiêu
 Phân tích xu hướng tăng trưởng/ngành hàng nổi bật
