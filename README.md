@@ -27,7 +27,8 @@ ETL: SSIS
 #### [1.3 AVANCED - Maven Fuzzy Factory Phân tích dữ liệu cho thương mại điện tử](#sql---th%C6%B0%C6%A1ng-m%E1%BA%A1i-%C4%91i%E1%BB%87n-t%E1%BB%AD---maven-fuzzy-factory-code)  
 
 ## II: Power BI
-#### [Power BI - Phân tích hiệu quả quảng cáo](#power-bi---ph%C3%A2n-t%C3%ADch-hi%E1%BB%87u-qu%E1%BA%A3-qu%E1%BA%A3ng-c%C3%A1o-%C4%91a-k%C3%AAnh)
+#### [Power BI - Phân tích hiệu quả quảng cáo](#power-bi---ph%C3%A2n-t%C3%ADch-hi%E1%BB%87u-qu%E1%BA%A3-qu%E1%BA%A3ng-c%C3%A1o-%C4%91a-k%C3%AAnh)   
+#### [Power BI - Thiết kế và duy trì Dashboard Thương mại điện tử - 2 triệu dòng](#power-bi---thi%E1%BA%BFt-k%E1%BA%BF-v%C3%A0-duy-tr%C3%AC-dashboard-ph%C3%A2n-t%C3%ADch-ecommerce-v%E1%BB%9Bi-power-bi--d%E1%BB%AF-li%E1%BB%87u-thelook-tr%C3%AAn-bigquer-2-tri%E1%BB%87u-d%C3%B2ng)
 
 
 ## III: Tableau
