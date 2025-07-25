@@ -195,7 +195,11 @@ Các đơn hàng lớn thường được mua đầu tháng
 Gợi ý công ty tập trung retarget nhóm VIP và At-Risk thông qua email, voucher riêng.
 Thiết kế chương trình loyalty program dựa trên phân nhóm RFM.
 Sử dụng dashboard Power BI như công cụ giám sát doanh thu theo thời gian thực.
-Áp dụng mô hình này cho các thị trường khác (Mỹ, EU).
+Áp dụng mô hình này cho các thị trường khác (Mỹ, EU).  
+<img width="641" height="361" alt="Image" src="https://github.com/user-attachments/assets/ef922a9a-5ea5-46c7-aff8-bfeee9aa2cab" />  
+  
+<img width="641" height="361" alt="Image" src="https://github.com/user-attachments/assets/9e9cc77d-82c6-4fc1-acc4-a2f3ff0ccd91" />
+
 
 
 
