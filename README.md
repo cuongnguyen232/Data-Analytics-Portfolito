@@ -146,7 +146,57 @@ Dùng measure tái sử dụng, DAX tối ưu, dữ liệu preload từ query SQ
 ##### ✅ Kết quả đạt được:
 Dashboard hoàn chỉnh giúp người dùng theo dõi các chỉ số chính của hoạt động eCommerce.
 Giao diện trực quan, dễ sử dụng, hỗ trợ filter linh hoạt.
-Có thể áp dụng vào các case thực tế trong ngành thương mại điện tử.
+Có thể áp dụng vào các case thực tế trong ngành thương mại điện tử.   
+
+
+### [Power BI - Retail Analytics – Sales Performance & Customer Segmentation]  
+[Dashboard](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Retail%20Analysis%20UK.pbix)  
+[Dataset and Processing data](https://github.com/cuongnguyen232/Data-Analytics-Portfolito/blob/main/Dataset%20and%20Processing%20Data%20Retail%20Analysis%20UK/Processing%20Data.ipynb)
+
+Dữ liệu: 500.000 dòng | UK Online Retail Dataset (Public)  
+Công cụ: Power BI, Python (pandas, seaborn, KMeans)  
+Thời gian thực hiện: 2 tuần    
+
+#####  🎯 Mục tiêu kinh doanh (Business Objective)
+Đánh giá hiệu suất bán hàng theo thời gian, khu vực, nhóm sản phẩm.
+Phân khúc khách hàng theo hành vi mua hàng để phục vụ chiến lược giữ chân và tái kích hoạt khách hàng.
+Tìm hiểu các yếu tố ảnh hưởng đến doanh thu và tỷ lệ quay lại, đề xuất chiến lược marketing phù hợp.
+
+#####  🔍 Phân tích & phương pháp thực hiện  
+1. Sales Performance Analysis  
+Sử dụng Python để tiền xử lý dữ liệu (loại bỏ đơn hàng huỷ, lỗi, missing).
+Thiết kế bảng phân tích đa chiều:
+DIM-Customer, DIM_Country, DIM_Product, DIM_Calendar
+Fact_OrderHeader, Fact_OrderDetail
+Trực quan hóa bằng Power BI dashboard, tương tác filter theo quốc gia, nhóm sản phẩm, kênh bán hàng.
+** Key metrics: ** revenue net, revenue, revenue return, quantity net, quantity return, number of order, number of customer, AOV, APS,...  
+Doanh thu theo thời gian, top sản phẩm, địa lý, mùa v, retention rate.  
+Phân tích xu hướng theo tháng, quý.  
+
+3. Customer Segmentation (RFM & Clustering)  
+Tính điểm RFM (Recency, Frequency, Monetary) cho toàn bộ khách hàng.
+Phân cụm bằng:
+KMeans Clustering → xác định 4 phân cụm chính:
+Champion: Giao dịch thường xuyên, giá trị cao, recency gần
+Loyal Potential: Tần suất mua ổn định, giá trị thấp hơn Champion 1 chút, recency gần
+At-Risk: Giá trị đơn hàng trung bình, tần suất mua bình thường (20-50), recency bình thường (30-70), nhưng đang dần mua ít hơn
+Low-Value: Đã lâu không mua, giá trị thấp, return nhiều  
+Đánh giá hành vi từng nhóm: sản phẩm ưa thích, thời gian mua, tỉ lệ hủy đơn.  
+
+📈 Kết quả chính (Key Findings)
+5% khách hàng (VIP segment) mang lại 40% tổng doanh thu.
+Nhóm khách hàng At-Risk có giá trị đơn hàng trung bình cao nhưng đang có xu hướng rời bỏ → cần tái marketing.
+Phân tích doanh thu cho thấy mùa cao điểm là Q1 hàng năm, tập trung vào nhóm sản phẩm "Đồ thủ công và trang trí"  
+Các đơn hàng lớn thường được mua đầu tháng  
+
+
+📌 Tác động & đề xuất hành động (Impact & Actions)
+Gợi ý công ty tập trung retarget nhóm VIP và At-Risk thông qua email, voucher riêng.
+Thiết kế chương trình loyalty program dựa trên phân nhóm RFM.
+Sử dụng dashboard Power BI như công cụ giám sát doanh thu theo thời gian thực.
+Áp dụng mô hình này cho các thị trường khác (Mỹ, EU).
+
+
 
 
 ### [Tableau - Xây dựng Dashboard Theo dõi hoạt động kinh doanh](https://public.tableau.com/views/Dashboard-SalesInsight_17390012775060/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
