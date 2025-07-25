@@ -28,7 +28,8 @@ ETL: SSIS
 
 ## II: Power BI
 #### [Power BI - Phân tích hiệu quả quảng cáo](#power-bi---ph%C3%A2n-t%C3%ADch-hi%E1%BB%87u-qu%E1%BA%A3-qu%E1%BA%A3ng-c%C3%A1o-%C4%91a-k%C3%AAnh)   
-#### [Power BI - Thiết kế và duy trì Dashboard Thương mại điện tử - 2 triệu dòng](#power-bi---thi%E1%BA%BFt-k%E1%BA%BF-v%C3%A0-duy-tr%C3%AC-dashboard-ph%C3%A2n-t%C3%ADch-ecommerce-v%E1%BB%9Bi-power-bi--d%E1%BB%AF-li%E1%BB%87u-thelook-tr%C3%AAn-bigquer-2-tri%E1%BB%87u-d%C3%B2ng)
+#### [Power BI - Thiết kế và duy trì Dashboard Thương mại điện tử - 2 triệu dòng](#power-bi---thi%E1%BA%BFt-k%E1%BA%BF-v%C3%A0-duy-tr%C3%AC-dashboard-ph%C3%A2n-t%C3%ADch-ecommerce-v%E1%BB%9Bi-power-bi--d%E1%BB%AF-li%E1%BB%87u-thelook-tr%C3%AAn-bigquer-2-tri%E1%BB%87u-d%C3%B2ng)  
+#### [Power BI - Phân tích Sales Performance, Customer Segmentation](#power-bi---retail-analytics--sales-performance--customer-segmentation)  
 
 
 ## III: Tableau
