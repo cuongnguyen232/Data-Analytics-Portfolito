@@ -12,6 +12,9 @@ Trực quan hóa: Power BI, Tableau
 Excel: Pivot table, Power Query Editor, hàm  
 ETL: SSIS 
 
+<img width="128" height="120" alt="Microsoft_Office_Excel_Logo_128px" src="https://github.com/user-attachments/assets/b097a1d4-c9b6-4db3-9edb-dbdc7d1b0325" />
+
+
 🏅 Chứng chỉ:   
 [Power BI Data Analyst](https://coursera.org/share/b5db0b9e45aefe5341969a29606aca34)  
 [Marketing Analysis with Meta](https://coursera.org/share/a24d7f66b32b8887d03528548b0572d9)   
@@ -247,7 +250,8 @@ Dashboard giúp ban quản lý theo dõi hiệu quả bán hàng theo thời gia
 
 
 
-## [Tableau - Phân tích chương trình khuyến mãi và chính sách giá](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Tableau - Phân tích chương trình khuyến mãi và chính sách giá
+### [Dashboard](https://public.tableau.com/views/PromotionandPricingAnalysis/keyInsightbyPromotions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### [Dataset](https://codebasics.io/challenge/codebasics-resume-project-challenge) #Challenge 9
 ##### 📌 Mô tả:
 AtliQ Mart là tập đoàn bán lẻ với hơn 50 siêu thị tại miền Nam Ấn Độ. Trong dịp Diwali 2023 và Sankranti 2024, công ty triển khai nhiều chương trình khuyến mãi cho các sản phẩm mang thương hiệu riêng. Sau chương trình, Giám đốc Bán hàng cần đánh giá hiệu quả từng chiến dịch, từng sản phẩm, từng cửa hàng để chuẩn bị cho giai đoạn khuyến mãi tiếp theo.
