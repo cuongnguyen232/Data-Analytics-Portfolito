@@ -12,7 +12,13 @@ Trực quan hóa: Power BI, Tableau
 Excel: Pivot table, Power Query Editor, hàm  
 ETL: SSIS 
 
-<img width="128" height="120" alt="Microsoft_Office_Excel_Logo_128px" src="https://github.com/user-attachments/assets/b097a1d4-c9b6-4db3-9edb-dbdc7d1b0325" />
+<img width="80" height="80" alt="Microsoft_Office_Excel_Logo_128px" src="https://github.com/user-attachments/assets/b097a1d4-c9b6-4db3-9edb-dbdc7d1b0325" />
+<img width="80" height="80" alt="New_Power_BI_Logo svg" src="https://github.com/user-attachments/assets/97a95115-fa5a-4054-98ab-fe01139662f7" />
+<img width="80" height="80" alt="sql-database-generic" src="https://github.com/user-attachments/assets/1e94100b-7713-45bd-9121-eba51bf7d516" />
+<img width="80" height="80" alt="python" src="https://github.com/user-attachments/assets/c1038514-2e6b-4ea8-ad28-221f15c339d0" />
+<img width="300" height="300" alt="1200px-Tableau_Logo" src="https://github.com/user-attachments/assets/be3efb38-86aa-42bc-845a-df51f440d633" />
+
+
 
 
 🏅 Chứng chỉ:   
